@@ -5,7 +5,7 @@ Hey, Welcome to my personal website!
 Credits:
 	Website Design:
 		Dimension by HTML5 UP
-		html5up.net | @ajlkn
+		html5up.net 
 
 	Images:
 		Unsplash (unsplash.com)
@@ -15,4 +15,4 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Responsive Tools 
